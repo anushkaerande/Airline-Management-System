@@ -7,7 +7,7 @@ approach/access for users at the backend to have records of details of customers
 well as flight details.
 The purpose of this project is to create a backend for the people working in an airline
 company.
-# FEATURES:
+# Features:
 The following features are provided by our system:
 1.Adding values in database tables-insert queries
 2.Displaying details based on Booking ID,flight ID
@@ -15,13 +15,13 @@ The following features are provided by our system:
 4.Deleting records
 5.Updating tables using triggers
 6.Displaying tickets using procedures.
-# FUNCTIONAL REQUIREMENTS:
+# Functional reqiurements:
 PERFORMANCE:
 REQUIRED TIME
 It took us roughly 1 month to bring our project to life.
 MEMORY
 330 KB.
-# RESOURCES
+# Resources
 ● Mysql
 ● Pycharm
 ● Tkinter
